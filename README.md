@@ -8,7 +8,6 @@ This project predicts whether a breast tumor is **malignant** or **benign** usin
 
 - **Source**: [Kaggle – Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - **Samples**: 569
-- **Features**: 30 numeric features derived from digitized images of breast mass cell nuclei
 - **Target Variable**: `diagnosis` — *Malignant (M)* or *Benign (B)*
 
 ---
