@@ -75,14 +75,15 @@ The top 20 features were selected based on **Spearman correlation** with the tar
    - Split the dataset into 80% training and 20% testing sets.
 
 10. **Machine Learning Models**
+    - Applied StandardScaler to normalize features for SVM and Logistic Regression models.
     - Trained the following models:
       - Logistic Regression
       - Random Forest
       - Support Vector Machine (SVM)
       - Decision Tree
       - XGBoost
-
-11. **Model Accuracy Comparison**
+        
+12. **Model Accuracy Comparison**
 
 The following models were trained and evaluated using the selected top 20 features:
 
