@@ -96,8 +96,6 @@ The following models were trained and evaluated using the selected top 20 featur
 
 > Logistic Regression achieved the highest accuracy.
 
-### Accuracy Comparison
-
 <img src="https://github.com/minotikedare/Breast-Cancer-Prediction-Using-Machine-Learning/blob/main/Model%20Accuracy%20Comparison.png?raw=true" alt="Model Accuracy Comparison" width="600"/>
 
 12. **Receiver Operating Characteristic Curve (ROC) Comparison**
@@ -113,8 +111,6 @@ The ROC curve evaluates classification performance across thresholds. The **AUC 
 | Decision Tree          | 0.95      |
 
 > All models demonstrated strong classification performance, with Logistic Regression, Random Forest, and SVM achieving AUC scores of 1.00.
-
-### ROC Curve Comparison
 
 <img src="https://github.com/minotikedare/Breast-Cancer-Prediction-Using-Machine-Learning/blob/main/Receiver%20Operating%20Characteristic%20Curve%20Comparison.png?raw=true" alt="ROC Curve Comparison" width="600"/>
 
