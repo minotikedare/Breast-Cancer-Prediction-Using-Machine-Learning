@@ -98,8 +98,6 @@ The following models were trained and evaluated using the selected top 20 featur
 
 ### Accuracy Comparison
 
-### Accuracy Comparison
-
 <img src="https://github.com/minotikedare/Breast-Cancer-Prediction-Using-Machine-Learning/blob/main/Model%20Accuracy%20Comparison.png?raw=true" alt="Model Accuracy Comparison" width="600"/>
 
 12. **Receiver Operating Characteristic Curve (ROC) Comparison**
