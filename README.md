@@ -98,7 +98,9 @@ The following models were trained and evaluated using the selected top 20 featur
 
 ### Accuracy Comparison
 
-![Model Accuracy Comparison](https://github.com/minotikedare/Breast-Cancer-Prediction-Using-Machine-Learning/blob/main/Model%20Accuracy%20Comparison.png?raw=true){width=600px}
+### Accuracy Comparison
+
+<img src="https://github.com/minotikedare/Breast-Cancer-Prediction-Using-Machine-Learning/blob/main/Model%20Accuracy%20Comparison.png?raw=true" alt="Model Accuracy Comparison" width="600"/>
 
 12. **Receiver Operating Characteristic Curve (ROC) Comparison**
 
@@ -116,7 +118,7 @@ The ROC curve evaluates classification performance across thresholds. The **AUC 
 
 ### ROC Curve Comparison
 
-![ROC Curve Comparison](https://github.com/minotikedare/Breast-Cancer-Prediction-Using-Machine-Learning/blob/main/Receiver%20Operating%20Characteristic%20Curve%20Comparison.png?raw=true){width=600px}
+<img src="https://github.com/minotikedare/Breast-Cancer-Prediction-Using-Machine-Learning/blob/main/Receiver%20Operating%20Characteristic%20Curve%20Comparison.png?raw=true" alt="ROC Curve Comparison" width="600"/>
 
 13. **Building a Predictive System**
 
