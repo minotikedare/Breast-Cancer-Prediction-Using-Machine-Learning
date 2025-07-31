@@ -116,9 +116,7 @@ The ROC curve evaluates classification performance across thresholds. The **AUC 
 
 13. **Building a Predictive System**
 
-A predictive system was developed using the trained **Logistic Regression** model. It takes input for the top 20 selected features and predicts whether the tumor is:
-
-**Benign** (0) or  **Malignant** (1)
+A predictive system was developed using the trained **Logistic Regression** model. It takes input for the top 20 selected features and predicts whether the tumor is: **Benign** (0) or  **Malignant** (1)
 
 Logistic Regression was selected as the optimal model because, despite Random Forest, Logistic Regression, and Support Vector Machine (SVM) all attaining perfect AUC scores of 1.00, Logistic Regression achieved the highest accuracy of 98.25%. This performance exceeded that of Random Forest and SVM (both 96.49%), XGBoost (95.61%), and Decision Tree (94.74%). Its superior accuracy and discriminative capacity render it particularly suitable for this task.
   
